@@ -10,5 +10,3 @@ num4 = int(input('input a bits:'), 2)
 num5 = bin(num1&num4)
 print(num5)
 print()
-
-

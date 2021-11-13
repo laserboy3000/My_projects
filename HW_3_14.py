@@ -13,3 +13,4 @@ var_r = var1 >> 1
 var_r2 = var1 >> 2
 var_l = var1 << 2
 print(var1, var_r, var_r2, var_l)
+print()
