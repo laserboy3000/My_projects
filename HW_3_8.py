@@ -5,3 +5,5 @@ while word != sec_word: # loop for search the secret word
     print('nope')
     word = input('Try again: ').lower()
 print('You have successfully left the loop.') # finish!!!
+print('You have successfully left the loop.') # finish!!!
+ 

@@ -25,3 +25,5 @@ while command == 'start' or command == 'yes':
 	elif operation == '%':
 		print(num1%num2)
 	command = input('again?')
+	command = input('again?')
+ 
