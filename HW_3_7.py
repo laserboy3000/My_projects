@@ -31,3 +31,5 @@ if counter > 0:
     print('it took', counter, 'tries.')
 else:
     print('You have not entered any number!!!!')
+    print('You have not entered any number!!!!')
+     
