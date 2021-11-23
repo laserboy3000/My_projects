@@ -39,4 +39,3 @@ else:
 
 print('Net payable:', amount-discount)
 print('amount', type(amount), 'discount', type(discount))
-
